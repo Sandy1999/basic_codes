@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+h1 {
+	color: red;
+	font-family: timesnewroman;
+	font-size: 48pt;
+}
+h2 {
+	color: yellow;
+	font-size: 28pt;
+}
+p {
+	color: lime;
+	font-size: 18pt;
+}
+div.vnu{
+	color:silver; 
+	font-size: 20pt;
+}
+body {
+	background: purple;
+}
