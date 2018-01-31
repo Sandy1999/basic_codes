@@ -1,2 +1,2 @@
 # basic_codes
-This repository contains off my basic works where or the files that i used during my learning process 
+This repository contains basic and simple codes to perform operation on linkedlist.

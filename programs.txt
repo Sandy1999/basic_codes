@@ -1,0 +1,7 @@
+create six nodes in singly linked list 
+insert an element in the beggning of singly linked list 
+insert an element in the end of singly linked list
+insert an element at any pos in singly linked list
+counting the number of nodes in singly linked list
+insert an element at any pos in doubly linked list
+delete a node at given position in doubly linked list
